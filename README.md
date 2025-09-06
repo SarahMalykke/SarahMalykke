@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**SarahMalykke/SarahMalykke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cognitive Neuroscience PhD Candidate at The George Washington University studying error-related behavior and performance dynamics. My research focuses on predicting when mistakes occur and understanding how behavior changes before and after errors.  
 
-Here are some ideas to get you started:
+I work with large-scale behavioral datasets and apply advanced statistical modeling, linear mixed-effects models, and machine learning to build predictive models of errors. My broader goal is to uncover how systematic behavioral adjustments shape performance and to move error research from describing patterns to predicting them.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+- R, Python, JavaScript
+- Machine Learning, Linear-Mixed Effects Modeling, Data Visualization
+
+
+## 📂 Current Projects
+- Predicting errors using trial-level behavioral data
+- Examining pre-error speeding and post-error slowing in large-scale datasets  
+- Cursor trajectory analyses in visual search tasks for time-resolved error prediction using random forest models
+
+
+## 🥋 Athletic Background
+Before starting my PhD, I was a professional Taekwondo athlete competing at the international level:  
+- 🥇 Fin-Weight European Champion  
+- 🥈 Fin-Weight U-21 Vice-European Champion  
+- 🥋 Member of the Olympic Team for the 2015 European Games & Olympic Qualification Team for the 2016 Olympic Games  
+- 🌍 Ranked #6 in the world (seniors) and #1 in the world (juniors, U-18)  
+- 🇩🇰 9× National Champion in Denmark  
+- 🏆 24 gold, 8 silver, and 10 bronze medals from World Class Taekwondo professional tournaments  
+
+This experience shaped my interest in performance under pressure and continues to inspire my research into error-related behavior and recovery.  
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/sarahmalykke) | [Email](mailto:sarahmalykke@gwu.edu)  
