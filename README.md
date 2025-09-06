@@ -28,4 +28,4 @@ Before starting my PhD, I was a professional Taekwondo athlete competing at the 
 
 This experience shaped my interest in performance under pressure and continues to inspire my research into error-related behavior and recovery.  
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/sarahmalykke) | [Email](mailto:sarahmalykke@gwu.edu)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarahmalykke) | [Email](mailto:sarahmalykke@gwu.edu)  
