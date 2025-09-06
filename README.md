@@ -12,7 +12,7 @@ I work with large-scale behavioral datasets and apply advanced statistical model
 
 
 ## 📂 Current Projects
-- Predicting errors using trial-level behavioral data
+- Predicting errors using trial-level behavioral data. See my analysis pipeline here: [error-prediction](https://github.com/SarahMalykke/error-prediction)
 - Examining pre-error speeding and post-error slowing in large-scale datasets. See my analysis pipeline here: [prepost-error-dynamics-lme](https://github.com/SarahMalykke/prepost-error-dynamics-lme)
 - Cursor trajectory analyses in visual search tasks for time-resolved error prediction using random forest models
 
