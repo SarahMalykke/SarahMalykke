@@ -17,6 +17,9 @@ I work with large-scale behavioral datasets and apply advanced statistical model
 - Cursor trajectory analyses in visual search tasks for time-resolved error prediction using random forest models
 
 
+## Publications and Presentations
+See the full list [here](publications_and_presentations.md).
+
 ## 🥋 Athletic Background
 Before starting my PhD, I was a professional Taekwondo athlete competing at the international level:  
 - 🥇 Fin-Weight European Champion  
