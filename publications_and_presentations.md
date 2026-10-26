@@ -1,5 +1,9 @@
 **PUBLICATIONS AND PRESENTATIONS**
 
+- **Malykke, S.B.**, Siqi-Liu, A., Kravitz, D.J., Mitroff, S. R. (2026). Predicting errors before they occur using trial-by-trial dynamics of pre-error and post-error behavior. Attention, Perception, & Psychophysics, 88(137). https://doi.org/10.3758/s13414-026-03281-0
+
+- **Malykke, S.B.**, Siqi-Liu, A., Kravitz, D.J., & Mitroff, S.R. (November 2025). Headed for an error: Using large-scale behavioral data to predict errors before they happen. Talk at the Psychonomic Society Annual Meeting 2026. Denver, CO
+
 - **Malykke, S.B.**, Siqi-Liu, A., Oie, K.S., Kravitz, D.J., & Mitroff, S.R. (May 2025). The time course of an error: Benefits of examining pre-error speeding and post-error slowing simultaneously. Poster presentation at the annual meeting of the Vision Sciences Society. St. Pete Beach, FL.  
 
 - Siqi-Liu, A., **Malykke, S.B.**, Oie, K.S., Kravitz, D.J., & Mitroff, S.R. (May 2025). Computer cursor trajectories are predictive of upcoming success in visual search. Talk at the annual meeting of the Vision Sciences Society. St. Pete Beach, FL.  
